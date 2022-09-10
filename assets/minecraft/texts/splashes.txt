@@ -1,94 +1,92 @@
-§b«20% cooler!» –Rainbow Dash
-§b«I didn't know you could burn juice» –Rarity
-§b«Uh, beg pardon Rarity, but, uh, we don't normally wear clothes» –Applejack
-§f«99 buckets of oats!» –Sweetie Belle
-§e«A baby dragon!» –Fluttershy
-§f«Afraid to get dirty?» –Rarity
-§b«And my legacy will endure!» –Principal Cinch
-§d«And that's how Equestria was made!» –Pinkie Pie
-§b«Are you a spy?» –Rainbow Dash
-§d«Are you loco in the coco?» –Pinkie Pie
-§e«Aren't you gonna stay for brunch?» –Apple Bloom
-§f«As popular, as popular can be!» –Rarity
-§d«Betcha can't make a face crazier than this!» –Pinkie Pie
-«Bump! Bump! Sugar lump! Rump!» –Diamond Tiara & Silver Spoon
-§b«But I didn't listen!» –Party Favor
-§e«But I want it NOW!» –Apple Bloom
+§1«The fun has been doubled!» –Princess Luna
+§2«Oh no, Twilight fell!» –Spike
+§3«Great and powerful!» –Trixie
+§3«Nopony can do those spells!» –Trixie
+§3«We have some neighsayers in the audience!» –Trixie
+§3«Well, Twilight? Give up?» –Trixie
 §4«But that rainbow one kicked me!» –Red Dragon
-§e«Buy some apples!» –Apple Bloom
 §5«CLOCK. IS. TICKING!» –Twilight Sparkle
-§f«CRYSTAL PONIES!» –Rarity
-§d«Creamy, creamy frosting…» –Pinkie Pie
 §5«Dear Princess Celestia…» –Twilight Sparkle
 §5«Did you two plan this?» –Twilight Sparkle
-§f«Dumb fabric!» –Sweetie Belle
-§c«Eeyup!» –Big Mac
-§d«Eternal chaos comes with chocolate rain!» –Pinkie Pie
 §5«For Equestria!» –Twilight Sparkle
-§f«For I am Rarity!» –Rarity
-§b«For realsies?» –Sonata Dusk
-§d«Go back to sleep, Sonata» –Aria Blaze
-§3«Great and powerful!» –Trixie
 §5«HI, GIRLS!» –Twilight Sparkle
-«Helping Twilight win the crown!» –Mane 5
-§d«Hey, y'know what this calls for?» –Pinkie Pie
-§6«I also play guitar» –Sunset Shimmer
-§f«I am not whining!» –Rarity
-§6«I can't hear you, I'm asleep!» –Applejack
 §5«I didn't understand magic before, but I do now!» –Midnight Sparkle
-§7«I may actually grow to like this multiple-friend thing» –Discord
-§f«I really like her… mane?» –Sweetie Belle
-§6«I turned into a raging she-demon» –Sunset Shimmer
 §5«I used to wonder what friendship could be» –Twilight Sparkle
+§5«I'm pancake! I mean, awake…» –Twilight Sparkle
+§5«Look out, here comes Tom!» –Twilight Sparkle
+§5«Magic makes it all complete!» –Twilight Sparkle
+§5«PINKIE!» –Twilight Sparkle
+§5«Science!» –SciTwi
+§6«I also play guitar» –Sunset Shimmer
+§6«I can't hear you, I'm asleep!» –Applejack
+§6«I turned into a raging she-demon» –Sunset Shimmer
+§6«My past is not today» –Sunset Shimmer
+§6«My sister's speakin' in fancy!» –Applejack
+§6«Soup's on, everypony!» –Applejack
+§6«That's not how you call a chicken!» –Scootaloo
+§6«Uh, beg pardon Rarity, but, uh, we don't normally wear clothes» –Applejack
+§6«Uh, keep on rockin' it» –Flash Sentry
+§6«We here at Sweet Apple Acres sure do like making new friends!» –Applejack
+§6«What are you, a dictionary?» –Scootaloo
+§7«I may actually grow to like this multiple-friend thing» –Discord
 §7«I'm Discord, spirit of chaos and disharmony» –Discord
 §7«I'm going to need more popcorn…» –Discord
+§7«What fun is there in making sense?» –Discord
 §a«I'm not lonely, because I have… plants!» –Wallflower Blush
-§5«I'm pancake! I mean, awake…» –Twilight Sparkle
-§e«I'm the big sister now!» –Apple Bloom
-§e«I'm the world champ, you know. I bet you can't beat me!» –Fluttershy
-§f«IDEA!» –Rarity
+§b«20% cooler!» –Rainbow Dash
+§b«And my legacy will endure!» –Principal Cinch
+§b«Are you a spy?» –Rainbow Dash
+§b«But I didn't listen!» –Party Favor
+§b«For realsies?» –Sonata Dusk
 §b«In 10 seconds flat!» –Rainbow Dash
+§b«May the best pet win!» –Rainbow Dash
+§b«My life is ruined!» –Rainbow Dash
+§b«Omigoshomigoshomigoshomigosh!!» –Rainbow Dash
+§b«This is gonna be SO AWESOME!» –Rainbow Dash
+§c«Eeyup!» –Big Mac
+§d«And that's how Equestria was made!» –Pinkie Pie
+§d«Are you loco in the coco?» –Pinkie Pie
+§d«Betcha can't make a face crazier than this!» –Pinkie Pie
+§d«Creamy, creamy frosting…» –Pinkie Pie
+§d«Eternal chaos come with chocolate rain, you guys! CHOCOLATE RAIN!» -Pinkie Pie
+§d«Go back to sleep, Sonata» –Aria Blaze
+§d«Hey, y'know what this calls for?» –Pinkie Pie
 §d«It's piñata o'clock!» –Pinkie Pie
 §d«Laughs don't come in barrels» –Pinkie Pie
 §d«Let's see those big, happy smiles!» –Starlight Glimmer
-§5«Look out, here comes Tom!» –Twilight Sparkle
-§5«Magic makes it all complete!» –Twilight Sparkle
-§b«May the best pet win!» –Rainbow Dash
 §d«My Pinkie sense is tingling!» –Pinkie Pie
-§b«My life is ruined!» –Rainbow Dash
-§6«My past is not today» –Sunset Shimmer
-§6«My sister's speakin' in fancy!» –Applejack
 §d«Nopony breaks a Pinkie promise!» –Pinkie Pie
-§3«Nopony can do those spells!» –Trixie
-§d«Oatmeal, are you crazy?» –Pinkie Pie
-§2«Oh no, Twilight fell!» –Spike
-§f«Oh, what a drama queen. Mm. Relatively speaking…» –Rarity
+§d«Oatmeal!? Are you crazy?» –Pinkie Pie
 §d«Okey dokey lokey!» –Pinkie Pie
-§b«Omigoshomigoshomigoshomigosh!!» –Rainbow Dash
-§5«PINKIE!» –Twilight Sparkle
 §d«QUIET!» –Starlight Glimmer
-§e«Really? I love it here!» –Adagio Dazzle
-§5«Science!» –SciTwi
 §d«Smile, smile, smile!» –Pinkie Pie
-§6«Soup's on, everypony!» –Applejack
-«Sunshine, sunshine, ladybug's awake!» –Cadance & Twilight
-§6«That's not how you call a chicken!» –Scootaloo
-§f«That's the art of the dress!» –Rarity
-§f«The WORST. POSSIBLE. THING.» –Rarity
-§1«The fun has been doubled!» –Princess Luna
 §d«The horror! The horror!» –Lily Valley
-§b«This is gonna be SO AWESOME!» –Rainbow Dash
-§6«Uh, keep on rockin' it» –Flash Sentry
-«We are the Cutie Mark Crusaders» –CMC
-§3«We have some neighsayers in the audience!» –Trixie
-§6«We here at Sweet Apple Acres sure do like making new friends!» –Applejack
-§3«Well, Twilight? Give up?» –Trixie
-§6«What are you, a dictionary?» –Scootaloo
-§7«What fun is there in making sense?» –Discord
+§e«A baby dragon!» –Fluttershy
+§e«Aren't you gonna stay for brunch?» –Apple Bloom
+§e«But I want it NOW!» –Apple Bloom
+§e«Buy some apples!» –Apple Bloom
+§e«I'm the big sister now!» –Apple Bloom
+§e«I'm the world champ, you know. I bet you can't beat me!» –Fluttershy
+§e«Really? I love it here!» –Adagio Dazzle
 §e«What's soaking wet and clueless? Your face!» –Fluttershy
 §e«YOU'RE GOING TO LOVE ME!» –Fluttershy
 §e«Yay!» –Fluttershy
 §e«You rock, woohoo!» –Fluttershy
 §e«You'll be mine! MINE!» –Fluttershy
-§e«Oatmeal!? Are you crazy?» –Pinkie Pie
-§e«Eternal chaos come with chocolate rain, you guys! CHOCOLATE! RAIN» - Pinkie Pie
+§f«99 buckets of oats!» –Sweetie Belle
+§f«Afraid to get dirty?» –Rarity
+§f«As popular, as popular can be!» –Rarity
+§f«CRYSTAL PONIES!» –Rarity
+§f«Dumb fabric!» –Sweetie Belle
+§f«For I am Rarity!» –Rarity
+§f«I am not whining!» –Rarity
+§f«I didn't know you could burn juice» –Rarity
+§f«I really like her… mane?» –Sweetie Belle
+§f«IDEA!» –Rarity
+§f«Oh, what a drama queen. Mm. Relatively speaking…» –Rarity
+§f«That's the art of the dress!» –Rarity
+§f«The WORST. POSSIBLE. THING.» –Rarity
+«Bump! Bump! Sugar lump! Rump!» –Diamond Tiara & Silver Spoon
+«Helping Twilight win the crown!» –Mane 5
+«Sunshine, sunshine, ladybug's awake!» –Cadance & Twilight
+«We are the Cutie Mark Crusaders» –CMC
