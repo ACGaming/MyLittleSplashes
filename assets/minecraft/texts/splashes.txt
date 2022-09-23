@@ -1,4 +1,5 @@
 §1«The fun has been doubled!» –Princess Luna
+§5«That's right!» –Twilight Sparkle
 §1«Ah! Your Princess enjoys this!» –Princess Luna
 §2«Oh no, Twilight fell!» –Spike
 §3«Great and powerful!» –Trixie
@@ -7,6 +8,8 @@
 §3«Well, Twilight? Give up?» –Trixie
 §4«But that rainbow one kicked me!» –Red Dragon
 §5«CLOCK. IS. TICKING!» –Twilight Sparkle
+§5«No, I'm not! They're just so... [shudders] cheesy.» –Twilight Sparkle
+§5«Ugh. Is everypony alright?» –Twilight Sparkle
 §5«Dear Princess Celestia…» –Twilight Sparkle
 §5«Did you two plan this?» –Twilight Sparkle
 §5«For Equestria!» –Twilight Sparkle
@@ -14,6 +17,7 @@
 §5«I didn't understand magic before, but I do now!» –Midnight Sparkle
 §5«I used to wonder what friendship could be» –Twilight Sparkle
 §5«I'm pancake! I mean, awake…» –Twilight Sparkle
+§5«Then we are, too» –Twilight Sparkle
 §5«Look out, here comes Tom!» –Twilight Sparkle
 §5«Magic makes it all complete!» –Twilight Sparkle
 §5«Wow, that was inspired!» –Twilight Sparkle
@@ -25,6 +29,7 @@
 §6«I turned into a raging she-demon» –Sunset Shimmer
 §6«My past is not today» –Sunset Shimmer
 §6«My sister's speakin' in fancy!» –Applejack
+§6«And you must be—» –Applejack
 §6«Soup's on, everypony!» –Applejack
 §6«Why, after today, we won't even be the Cutie Mark Crusaders anymore! We'll be the... the Three Strikes!» -Apple Bloom
 §6«That makes us sound like we've struck out» –Scootaloo
@@ -49,6 +54,7 @@
 §b«My life is ruined!» –Rainbow Dash
 §b«Omigoshomigoshomigoshomigosh!!» –Rainbow Dash
 §b«This is gonna be SO AWESOME!» –Rainbow Dash
+§b«Gah! Nope» –Rainbow Dash
 §c«Eeyup!» –Big Mac
 §d«And that's how Equestria was made!» –Pinkie Pie
 §d«Are you loco in the coco?» –Pinkie Pie
@@ -61,6 +67,7 @@
 §d«It's piñata o'clock!» –Pinkie Pie
 §d«Laughs don't come in barrels» –Pinkie Pie
 §d«Let's see those big, happy smiles!» –Starlight Glimmer
+§d«How do I start?» –Starlight Glimmer
 §d«Spare me your sentimental nonsense! I gave these ponies real friendships they never could've had otherwise!!» –Starlight Glimmer
 §d«My Pinkie sense is tingling!» –Pinkie Pie
 §d«Nopony breaks a Pinkie promise!» –Pinkie Pie
@@ -80,6 +87,7 @@
 §e«I'm the world champ, you know. I bet you can't beat me!» –Fluttershy
 §e«Really? I love it here!» –Adagio Dazzle
 §e«What's soaking wet and clueless? Your face!» –Fluttershy
+§e«"But she's afraid of quesadillas."» –Fluttershy
 §e«YOU'RE GOING TO LOVE ME!» –Fluttershy
 §e«Yay!» –Fluttershy
 §e«You rock, woohoo!» –Fluttershy
@@ -105,7 +113,7 @@
 «Helping Twilight win the crown!» –Mane 5
 «Sunshine, sunshine, ladybug's awake!» –Cadance & Twilight
 «We are the Cutie Mark Crusaders» –CMC
-«And we wanna crusade for our cutie marks!» –CMC
+«And we wanna crThat's right! usade for our cutie marks!» –CMC
 «And we um... Yeah what they said!» –Sweetie Belle
 «My newest recipe: Snow Pie!» -Sugar Belle
 «We'll never find her in there!» -Double Diamond
