@@ -58,6 +58,7 @@
 §d«It's piñata o'clock!» –Pinkie Pie
 §d«Laughs don't come in barrels» –Pinkie Pie
 §d«Let's see those big, happy smiles!» –Starlight Glimmer
+§d«Spare me your sentimental nonsense! I gave these ponies real friendships they never could've had otherwise!!» –Starlight Glimmer
 §d«My Pinkie sense is tingling!» –Pinkie Pie
 §d«Nopony breaks a Pinkie promise!» –Pinkie Pie
 §d«Oatmeal!? Are you crazy?» –Pinkie Pie
@@ -85,6 +86,7 @@
 §f«Afraid to get dirty?» –Rarity
 §f«As popular, as popular can be!» –Rarity
 §f«CRYSTAL PONIES!» –Rarity
+§f«Why in Equestria would you want to avoid such a gorgeous castle?» –Rarity
 §f«Dumb fabric!» –Sweetie Belle
 §f«For I am Rarity!» –Rarity
 §f«I am not whining!» –Rarity
@@ -102,3 +104,4 @@
 «We are the Cutie Mark Crusaders» –CMC
 «And we wanna crusade for our cutie marks!» –CMC
 «And we um... Yeah what they said!» –Sweetie Belle
+«My newest recipe: Snow Pie!» -Sugar Belle
