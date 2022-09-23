@@ -16,6 +16,8 @@
 §5«I'm pancake! I mean, awake…» –Twilight Sparkle
 §5«Look out, here comes Tom!» –Twilight Sparkle
 §5«Magic makes it all complete!» –Twilight Sparkle
+§5«Wow, that was inspired!» –Twilight Sparkle
+§5«You have to do this every year!» –Pinkie Pie
 §5«PINKIE!» –Twilight Sparkle
 §5«Science!» –SciTwi
 §6«I also play guitar» –Sunset Shimmer
@@ -108,3 +110,5 @@
 «My newest recipe: Snow Pie!» -Sugar Belle
 «We'll never find her in there!» -Double Diamond
 «CUTIE MARK CRUSADERS' SLEEPOVER AT RARITY'S! YAY!» -CMC
+§b«I'll take that as a yes.» -Rainbow Dash
+§d«You have to do this every year» –Pinkie Pie
