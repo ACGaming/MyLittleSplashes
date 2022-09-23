@@ -1,4 +1,5 @@
 §1«The fun has been doubled!» –Princess Luna
+«The fun has been doubled!» – Main cast sans Pinkie
 §5«That's right!» –Twilight Sparkle
 §1«Ah! Your Princess enjoys this!» –Princess Luna
 §2«Oh no, Twilight fell!» –Spike
@@ -18,6 +19,7 @@
 §5«I used to wonder what friendship could be» –Twilight Sparkle
 §5«I'm pancake! I mean, awake…» –Twilight Sparkle
 §5«Then we are, too» –Twilight Sparkle
+§5«Pinkie, you're not a failure» –Twilight Sparkle
 §5«Look out, here comes Tom!» –Twilight Sparkle
 §5«Magic makes it all complete!» –Twilight Sparkle
 §5«Wow, that was inspired!» –Twilight Sparkle
@@ -29,6 +31,7 @@
 §6«I turned into a raging she-demon» –Sunset Shimmer
 §6«My past is not today» –Sunset Shimmer
 §6«My sister's speakin' in fancy!» –Applejack
+§6«Look at these! Pinkie's made files for everypony in town!» –Applejack
 §6«And you must be—» –Applejack
 §6«Soup's on, everypony!» –Applejack
 §6«Why, after today, we won't even be the Cutie Mark Crusaders anymore! We'll be the... the Three Strikes!» -Apple Bloom
@@ -77,6 +80,7 @@
 §d«Smile, smile, smile!» –Pinkie Pie
 §d«The horror! The horror!» –Lily Valley
 §e«A baby dragon!» –Fluttershy
+§e«What matters is how hard you tried» –Fluttershy
 §e«Aren't you gonna stay for brunch?» –Apple Bloom
 §e«But I want it NOW!» –Apple Bloom
 §e«Buy some apples!» –Apple Bloom
@@ -90,6 +94,7 @@
 §e«"But she's afraid of quesadillas."» –Fluttershy
 §e«YOU'RE GOING TO LOVE ME!» –Fluttershy
 §e«Yay!» –Fluttershy
+§e«With exactly what kind of parties we like.!» –Fluttershy
 §e«You rock, woohoo!» –Fluttershy
 §e«You'll be mine! MINE!» –Fluttershy
 §f«99 buckets of oats!» –Sweetie Belle
@@ -118,5 +123,6 @@
 «My newest recipe: Snow Pie!» -Sugar Belle
 «We'll never find her in there!» -Double Diamond
 «CUTIE MARK CRUSADERS' SLEEPOVER AT RARITY'S! YAY!» -CMC
-§b«I'll take that as a yes.» -Rainbow Dash
+§b«I'll take that as a yes.» -Rainbow Dash 
 §d«You have to do this every year» –Pinkie Pie
+§b«Who else would've gone all across Equestria to plan one party?» -Rainbow Dash
