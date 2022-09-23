@@ -5,6 +5,8 @@
 §1«Ah! Your Princess enjoys this!» –Princess Luna
 §2«Oh no, Twilight fell!» –Spike
 §2«Poof!» –Spike
+§2«Spike WANT» –Spike
+§2«Proud of me?» –Spike
 §2«[in deep voice]what's happening to me?!» –Spike
 §2«My arms aren't usually this long either!» –Spike
 §2«Huh. Wonder what she's dreaming about now.» –Spike
@@ -153,3 +155,13 @@
 §d«I am not gving him cacke i am assualting him with cake!» –Pinkie Pie
 §d«How dare you take the cake!» –Pinkie Pie
 §5«Pinkie Pie stop giving him cake!» - Twilight Sparkle
+§5« Come on, big boy! Look at this incredible broom!» - Twilight Sparkle
+§5«Wow, Spike, that's one of the kindest, most generous things you've ever done. I've never seen Rarity so happy!» - Twilight Sparkle
+§5«Little guy not feeling to good who's a great little boy!» - Doctor pony
+§5«Well I think I know what the problem Is... he is a dragon» - Doctor pony
+§b«Drop her, scaly!» -Rainbow Dash 
+§b«Put her down, right now!» -Rainbow Dash 
+§b«I mean it dragon boy!» -Rainbow Dash 
+§6«Twilight, get my rope» –Applejack
+§f«How rude!» –Rarity
+§5«Well I am flumuxed you bring me a dog i've got it diagnosed in seconds snake even faster but to be honest i have never seen a real live dragon» - Doctor pony
