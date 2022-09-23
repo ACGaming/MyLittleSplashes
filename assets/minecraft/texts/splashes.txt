@@ -3,6 +3,8 @@
 §5«That's right!» –Twilight Sparkle
 §1«Ah! Your Princess enjoys this!» –Princess Luna
 §2«Oh no, Twilight fell!» –Spike
+§2«Poof!» –Spike
+§2«Huh. Wonder what she's dreaming about now.» –Spike
 §3«Great and powerful!» –Trixie
 §3«Nopony can do those spells!» –Trixie
 §3«We have some neighsayers in the audience!» –Trixie
@@ -13,6 +15,7 @@
 §5«Ugh. Is everypony alright?» –Twilight Sparkle
 §5«Dear Princess Celestia…» –Twilight Sparkle
 §5«Did you two plan this?» –Twilight Sparkle
+§5«[gasps] Luna did it!» –Twilight Sparkle
 §5«For Equestria!» –Twilight Sparkle
 §5«HI, GIRLS!» –Twilight Sparkle
 §5«I didn't understand magic before, but I do now!» –Midnight Sparkle
@@ -28,6 +31,7 @@
 §5«Science!» –SciTwi
 §6«I also play guitar» –Sunset Shimmer
 §6«I can't hear you, I'm asleep!» –Applejack
+§6«She sure did! Only... I'm not sure exactly what she did» –Applejack
 §6«I turned into a raging she-demon» –Sunset Shimmer
 §6«My past is not today» –Sunset Shimmer
 §6«My sister's speakin' in fancy!» –Applejack
@@ -113,6 +117,7 @@
 §f«IDEA!» –Rarity
 §f«Oh, what a drama queen. Mm. Relatively speaking…» –Rarity
 §f«That's the art of the dress!» –Rarity
+§f«I would expect nothing less.» –Rarity 
 §f«The WORST. POSSIBLE. THING.» –Rarity
 «Bump! Bump! Sugar lump! Rump!» –Diamond Tiara & Silver Spoon
 «Helping Twilight win the crown!» –Mane 5
@@ -126,3 +131,4 @@
 §b«I'll take that as a yes.» -Rainbow Dash 
 §d«You have to do this every year» –Pinkie Pie
 §b«Who else would've gone all across Equestria to plan one party?» -Rainbow Dash
+the drink got spiked [placeholder]
