@@ -1,35 +1,62 @@
 §1«The fun has been doubled!» –Princess Luna
+§5«Spike!» - Twilight Sparkle
+«The fun has been doubled!» – Main cast sans Pinkie
+§5«That's right!» –Twilight Sparkle
 §1«Ah! Your Princess enjoys this!» –Princess Luna
 §2«Oh no, Twilight fell!» –Spike
+§2«Poof!» –Spike
+§2«Spike WANT» –Spike
+§2«Proud of me?» –Spike
+§2«[in deep voice]what's happening to me?!» –Spike
+§2«My arms aren't usually this long either!» –Spike
+§2«Huh. Wonder what she's dreaming about now.» –Spike
 §3«Great and powerful!» –Trixie
 §3«Nopony can do those spells!» –Trixie
 §3«We have some neighsayers in the audience!» –Trixie
 §3«Well, Twilight? Give up?» –Trixie
 §4«But that rainbow one kicked me!» –Red Dragon
 §5«CLOCK. IS. TICKING!» –Twilight Sparkle
+§5«No, I'm not! They're just so... [shudders] cheesy.» –Twilight Sparkle
+§5«Ugh. Is everypony alright?» –Twilight Sparkle
 §5«Dear Princess Celestia…» –Twilight Sparkle
+§5«Let's not get carried away» –Twilight Sparkle
 §5«Did you two plan this?» –Twilight Sparkle
+§5«[gasps] Luna did it!» –Twilight Sparkle
 §5«For Equestria!» –Twilight Sparkle
 §5«HI, GIRLS!» –Twilight Sparkle
 §5«I didn't understand magic before, but I do now!» –Midnight Sparkle
 §5«I used to wonder what friendship could be» –Twilight Sparkle
 §5«I'm pancake! I mean, awake…» –Twilight Sparkle
+§5«Then we are, too» –Twilight Sparkle
+§5«Pinkie, you're not a failure» –Twilight Sparkle
+§5«Pinkie? Fluttershy» –Twilight Sparkle
 §5«Look out, here comes Tom!» –Twilight Sparkle
+§5«Starting is easy. All you have to do is make a friend...and you've got seven of them right here.» –Twilight Sparkle
 §5«Magic makes it all complete!» –Twilight Sparkle
+§5«Wow, that was inspired!» –Twilight Sparkle
+§5«You have to do this every year!» –Pinkie Pie
 §5«PINKIE!» –Twilight Sparkle
 §5«Science!» –SciTwi
 §6«I also play guitar» –Sunset Shimmer
 §6«I can't hear you, I'm asleep!» –Applejack
+§6«[To Apple Bloom] Guess Pinkie Pie always did the talkin' for her.» –Applejack
+§6«She sure did! Only... I'm not sure exactly what she did» –Applejack
 §6«I turned into a raging she-demon» –Sunset Shimmer
 §6«My past is not today» –Sunset Shimmer
 §6«My sister's speakin' in fancy!» –Applejack
+§6«Look at these! Pinkie's made files for everypony in town!» –Applejack
+§6«And you must be—» –Applejack
 §6«Soup's on, everypony!» –Applejack
+§6«Why, after today, we won't even be the Cutie Mark Crusaders anymore! We'll be the... the Three Strikes!» -Apple Bloom
+§6«That makes us sound like we've struck out» –Scootaloo
+§6«Woohoo!» –Scootaloo
 §6«That's not how you call a chicken!» –Scootaloo
 §6«Uh, beg pardon Rarity, but, uh, we don't normally wear clothes» –Applejack
 §6«Uh, keep on rockin' it» –Flash Sentry
 §6«We here at Sweet Apple Acres sure do like making new friends!» –Applejack
 §6«What are you, a dictionary?» –Scootaloo
 §7«I may actually grow to like this multiple-friend thing» –Discord
+§7«You know what i am fanished i will take all the cakes!» –Discord
 §7«I'm Discord, spirit of chaos and disharmony» –Discord
 §7«I'm going to need more popcorn…» –Discord
 §7«What fun is there in making sense?» –Discord
@@ -44,17 +71,23 @@
 §b«My life is ruined!» –Rainbow Dash
 §b«Omigoshomigoshomigoshomigosh!!» –Rainbow Dash
 §b«This is gonna be SO AWESOME!» –Rainbow Dash
+§b«Gah! Nope» –Rainbow Dash
 §c«Eeyup!» –Big Mac
 §d«And that's how Equestria was made!» –Pinkie Pie
 §d«Are you loco in the coco?» –Pinkie Pie
+§d«Silence, [softly] changeling!» –Pinkie Pie
 §d«Betcha can't make a face crazier than this!» –Pinkie Pie
 §d«Creamy, creamy frosting…» –Pinkie Pie
 §d«Eternal chaos come with chocolate rain, you guys! CHOCOLATE RAIN!» -Pinkie Pie
 §d«Go back to sleep, Sonata» –Aria Blaze
 §d«Hey, y'know what this calls for?» –Pinkie Pie
+§d«Wow, Fluttershy! I didn’t know you could be loud enough to echo!» –Pinkie Pie
 §d«It's piñata o'clock!» –Pinkie Pie
 §d«Laughs don't come in barrels» –Pinkie Pie
 §d«Let's see those big, happy smiles!» –Starlight Glimmer
+§d«How do I start?» –Starlight Glimmer
+§d«I know first-hoof how true that can be» –Starlight Glimmer
+§d«Spare me your sentimental nonsense! I gave these ponies real friendships they never could've had otherwise!!» –Starlight Glimmer
 §d«My Pinkie sense is tingling!» –Pinkie Pie
 §d«Nopony breaks a Pinkie promise!» –Pinkie Pie
 §d«Oatmeal!? Are you crazy?» –Pinkie Pie
@@ -63,31 +96,74 @@
 §d«Smile, smile, smile!» –Pinkie Pie
 §d«The horror! The horror!» –Lily Valley
 §e«A baby dragon!» –Fluttershy
+§e«What matters is how hard you tried» –Fluttershy
+§e«Shh! [points at Luna sleeping in the middle of the room]» –Fluttershy
 §e«Aren't you gonna stay for brunch?» –Apple Bloom
 §e«But I want it NOW!» –Apple Bloom
 §e«Buy some apples!» –Apple Bloom
 §e«I'm the big sister now!» –Apple Bloom
+§e«All righty then! Let's bowl 'em over!» –Apple Bloom
+§e«Mmm. How 'bout the Pin Twins?» –Apple Bloom
+§e«Today's the day, Cutie Mark Crusaders! I can just feel it! Today's the day we are all gonna get our cutie marks in... bowlin'!» –Apple Bloom
 §e«I'm the world champ, you know. I bet you can't beat me!» –Fluttershy
 §e«Really? I love it here!» –Adagio Dazzle
 §e«What's soaking wet and clueless? Your face!» –Fluttershy
+§e«"But she's afraid of quesadillas."» –Fluttershy
 §e«YOU'RE GOING TO LOVE ME!» –Fluttershy
 §e«Yay!» –Fluttershy
+§e«With exactly what kind of parties we like.!» –Fluttershy
+§e«All servants of Queen Chrysalis found in these woods... must be destroyed!» –Fluttershy
 §e«You rock, woohoo!» –Fluttershy
 §e«You'll be mine! MINE!» –Fluttershy
 §f«99 buckets of oats!» –Sweetie Belle
+§f«[holding a bag in her mouth] Wooo! [spits out bag] I mean, yay!» –Sweetie Belle
 §f«Afraid to get dirty?» –Rarity
 §f«As popular, as popular can be!» –Rarity
 §f«CRYSTAL PONIES!» –Rarity
+§f«Why in Equestria would you want to avoid such a gorgeous castle?» –Rarity
 §f«Dumb fabric!» –Sweetie Belle
 §f«For I am Rarity!» –Rarity
 §f«I am not whining!» –Rarity
 §f«I didn't know you could burn juice» –Rarity
 §f«I really like her… mane?» –Sweetie Belle
+§f«But there are three of us» –Sweetie Belle
+§f«The Bowling Dolls! That's it!» –Sweetie Belle
 §f«IDEA!» –Rarity
 §f«Oh, what a drama queen. Mm. Relatively speaking…» –Rarity
 §f«That's the art of the dress!» –Rarity
+§f«I would expect nothing less.» –Rarity 
 §f«The WORST. POSSIBLE. THING.» –Rarity
 «Bump! Bump! Sugar lump! Rump!» –Diamond Tiara & Silver Spoon
 «Helping Twilight win the crown!» –Mane 5
 «Sunshine, sunshine, ladybug's awake!» –Cadance & Twilight
 «We are the Cutie Mark Crusaders» –CMC
+«And we wanna crusade for our cutie marks» –CMC
+«And we um... Yeah what they said!» –Sweetie Belle
+«My newest recipe: Snow Pie!» -Sugar Belle
+«We'll never find her in there!» -Double Diamond
+«CUTIE MARK CRUSADERS' SLEEPOVER AT RARITY'S! YAY!» -CMC
+§b«I'll take that as a yes.» -Rainbow Dash 
+§d«You have to do this every year» –Pinkie Pie
+§b«Who else would've gone all across Equestria to plan one party?» -Rainbow Dash
+§d«And now the puntch has been Spiked!» - Pinkie Pie
+«Welcome home, Twilight» -Starlight
+«Mmm-hmm» -Marble
+§5«But according to this book, you’re supposed to add the sodium chloride first.» - Young Twilight Sparkle
+§5«Well, I read ahead too, Moondancer! And I'm sure it said sodium chloride first!» –Young Twilight Sparkle
+§5« I read ahead, and to make a proper salt lick, you need to add the molasses first!» –Young Moondancer
+§5« [flatly] Oh. I've got the wrong book. That’s so hilarious.» –Young Moondancer
+§5«  [answered Moondancer's question] Eh, a bubble of silence. I haven't seen you in a while and I thought it might be nice to catch up.» -Twilight Sparkle
+§d«I am not gving him cacke i am assualting him with cake!» –Pinkie Pie
+§d«How dare you take the cake!» –Pinkie Pie
+§d«All of them! he wants all of the cakes!!» –Pinkie Pie
+§5«Pinkie Pie stop giving him cake!» - Twilight Sparkle
+§5« Come on, big boy! Look at this incredible broom!» - Twilight Sparkle
+§5«Wow, Spike, that's one of the kindest, most generous things you've ever done. I've never seen Rarity so happy!» - Twilight Sparkle
+§5«Little guy not feeling to good who's a great little boy!» - Doctor pony
+§5«Well I think I know what the problem Is... he is a dragon» - Doctor pony
+§b«Drop her, scaly!» -Rainbow Dash 
+§b«Put her down, right now!» -Rainbow Dash 
+§b«I mean it dragon boy!» -Rainbow Dash 
+§6«Twilight, get my rope» –Applejack
+§f«How rude!» –Rarity
+§5«Well I am flumuxed you bring me a dog i've got it diagnosed in seconds snake even faster but to be honest i have never seen a real live dragon» - Vet pony
